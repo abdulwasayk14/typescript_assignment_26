@@ -1,1 +1,1 @@
-# typescript_assignment_26
+# typescript_assignment_26_Alien_colors#2
